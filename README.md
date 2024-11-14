@@ -10,7 +10,7 @@ Carte mère : Gigabyte B450M s2h
 
 Ram : 8 RAM DDR4 2666MHz
 
-Supported: Ventura,Sonoma(Currently using)
+Supported: Ventura,Sonoma,sequoia(Currently using)
 
 Does not work :
 AirDrop
