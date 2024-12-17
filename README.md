@@ -2,11 +2,11 @@
 
 configure:
 
-Processeur : AMD Ryzen 5 2600
+processor : AMD Ryzen 5 2600
 
-Carte graphique : AMD RX 570 (Sapphire Pulse)
+Graphics Card : AMD RX 570 (Sapphire Pulse)
 
-Carte mère : Gigabyte B450M s2h
+Motherboard : Gigabyte B450M s2h
 
 Ram : 8 RAM DDR4 2666MHz
 
