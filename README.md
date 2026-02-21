@@ -10,7 +10,7 @@ Motherboard : Gigabyte B450M s2h
 
 Ram : 8 RAM DDR4 2666MHz
 
-Supported: Ventura,Sonoma,sequoia(Currently using)
+Supported: Ventura,Sonoma,sequoia,tahoe(23.3)
 
 Does not work :
 AirDrop
